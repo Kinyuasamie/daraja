@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    margin-left: 40%;
+    margin-top: 20px;
+    width: fit-content;
+    height: fit-content;
+    font-size: large;
+    border-radius: 8%;
+}
+.btn{
+    background-color: rgb(6, 112, 6);
+    color: white;
+    border-radius: 12%;
+    border: none;
+    font-size: medium;
+    
+}
+body{
+    background-color: rgb(163, 159, 155);
+}
+input{
+    margin-top: 7px;
+    margin-bottom: 7px;
+    margin-left: 5px;
+    border: 1px solid;
+}
